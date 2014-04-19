@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Chrome to Cats",
-  "version": "1.0",
+  "name": "Pics to Kittens",
+  "version": "1.1",
   "author": "Yves Courtois",
   "description": "This extension makes The Internet better by replacing all images with cats.",
-  "homepage_url": "https://github.com/yvescourtois/chrome_to_cats",
+  "homepage_url": "https://github.com/yvescourtois/pics_to_kittens",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
